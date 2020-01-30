@@ -1,4 +1,13 @@
 {
+  "name": "tscourse-webframework",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pieterscodedump/tscourse-webframework"
+  },
+  "keywords": [typescript],
+  "author": "pieterscodedump",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^3.7.5"
   }
